@@ -16,22 +16,26 @@ There were no automated tests during the process of this application. Launch and
 
 ## Built With
 
-bcrypt==3.2.0
-cffi==1.14.5
-click==7.1.2
-cryptography==3.4.7
-Flask==1.1.2
-greenlet==1.1.0
-gunicorn==20.1.0
-itsdangerous==1.1.0
-Jinja2==2.11.3
-MarkupSafe==1.1.1
-pycparser==2.20
-PyMySQL==1.0.2
-python-dotenv==0.17.1
-six==1.16.0
-SQLAlchemy==1.4.14
-Werkzeug==1.0.1
+* bcrypt==3.2.0
+* cffi==1.14.5
+* click==7.1.2
+* cryptography==3.4.7
+* Flask==1.1.2
+* greenlet==1.1.0
+* gunicorn==20.1.0
+* itsdangerous==1.1.0
+* Jinja2==2.11.3
+* MarkupSafe==1.1.1
+* pycparser==2.20
+* PyMySQL==1.0.2
+* python-dotenv==0.17.1
+* six==1.16.0
+* SQLAlchemy==1.4.14
+* Werkzeug==1.0.1
+
+## Todo
+
+Improve UI
 
 ## Contributing
 
